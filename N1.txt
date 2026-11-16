@@ -1,1 +1,1 @@
-mkdir zdarova
+echo hi 
