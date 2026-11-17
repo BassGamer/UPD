@@ -1,3 +1,4 @@
 server.cfg
 server.log
 samp-npc
+LICENSE
